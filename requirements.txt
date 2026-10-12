@@ -1,0 +1,8 @@
+
+streamlit
+pymupdf
+pytesseract
+Pillow
+joblib
+pandas
+scikit-learn
